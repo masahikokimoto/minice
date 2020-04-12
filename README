@@ -1,0 +1,10 @@
+minice -- small icecast encoder for stethocast/MP3
+
+Copyright (c) 2001-2006, Masahiko KIMOTO, 
+      f                  Ohno Laboratory.
+
+ Programmed by Masahiko KIMOTO (2001-2006)
+ All Rights Reserved.
+
+minice is based on liveice included in icecast-1.1.4 distribution.
+But all of source code is scratched by me myself.
